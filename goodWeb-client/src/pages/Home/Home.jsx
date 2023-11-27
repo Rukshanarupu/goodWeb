@@ -1,11 +1,11 @@
 import History from "./History";
 import About from "../About/About";
-import Services from "../Services/Services";
 import Website from "../Website/Website";
 import ScrollToTop from "../Shared/ScrollToTop";
 import SplideBanner from "./SplideBanner";
 import PortfolioCategory from "../Portfolio/PortCategory";
 import Success from "../Portfolio/Success";
+import ServiceSection from "./ServiceSection";
 
 const Home = () => {
 
@@ -14,9 +14,9 @@ const Home = () => {
       <SplideBanner/>
       <About/>
       <History/>
-      <Services/>
+      <ServiceSection/>
       {/* <Website/> */}
-      <PortfolioCategory/>
+      {/* <PortfolioCategory/> */}
       <Success/>
       <ScrollToTop />
     </div>

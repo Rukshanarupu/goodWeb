@@ -227,6 +227,9 @@
 .service-offer li{
     font-size: 13px;
 }
+.service-icon img{
+    width: 40px;
+}
 
 /* ---------------website start---------------- */
 .website-section{

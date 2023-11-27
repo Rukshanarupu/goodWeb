@@ -132,7 +132,7 @@ const AddService = () => {
                 onChange={(e) => setFormData({ ...formData, service_title: e.target.value })}
               />
             </div>
-            <div className="col-lg-4 col-sm-12 col-md-6">
+            {/* <div className="col-lg-4 col-sm-12 col-md-6">
               <label htmlFor="service_title" className="form-label fw-bold"><u>Service Icon Url</u></label>
               <input
                 type="text"
@@ -141,7 +141,7 @@ const AddService = () => {
                 {...register('service_icon')}
                 onChange={(e) => setFormData({ ...formData, service_icon: e.target.value })}
               />
-            </div>
+            </div> */}
             <div className="col-sm-12 col-md-12 col-lg-4">
               <label htmlFor="service_text" className="form-label fw-bold">
                 <u>Service Text</u>

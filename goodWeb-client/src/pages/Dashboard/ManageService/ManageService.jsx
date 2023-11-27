@@ -51,7 +51,7 @@ const ManageService = () => {
                         <th scope="col">#</th>
                         <th scope="col">Title Id</th>
                         <th scope="col">Service title</th>
-                        <th scope="col" className='text-center'>Service Icon</th>
+                        {/* <th scope="col" className='text-center'>Service Icon</th> */}
                         <th scope="col" className='text-center'>Action</th>
                     </tr>
                     </thead>
@@ -61,7 +61,7 @@ const ManageService = () => {
                             <th scope="row">{index+1}</th>
                             <td>{service.id}</td>
                             <td>{service.service_title}</td>
-                            <td className='text-center'><img style={{width:"25px", height:"19px"}} src={service.service_icon} alt="" /></td>
+                            {/* <td className='text-center'><img style={{width:"25px", height:"19px"}} src={service.service_icon} alt="" /></td> */}
                             <td className='text-center d-flex align-items-center justify-content-center gap-3'>
                                 <Link to={`/dashboard/manage-service-details/${service._id}`} className='text-info fs-5'>
                                     <button className='bg-info border-0 d-flex '><small style={{fontSize:"12px"}}>Details</small></button>

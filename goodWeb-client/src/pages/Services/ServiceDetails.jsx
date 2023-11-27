@@ -27,7 +27,7 @@ const ServiceDetails = () => {
   // console.log(service_title);
 
   return (
-    <div className="container mt-5">
+    <div className="container mt-5 mb-3">
       <div className="row">
         <div className="col-lg-9 col-md-10 col-sm-12 offset-md-2">
           <div className="card d-flex">
@@ -39,7 +39,7 @@ const ServiceDetails = () => {
             /> 
             </div>
             <div className="card-body">
-              <h2 className="card-title">{service_title}</h2>
+              <h3 className="card-title text-center">{service_title}</h3>
               <p className="card-text">{service_text}</p>
               <h4 className="mb-3">Services Offered:</h4>
               <div className='d-md-flex '>
