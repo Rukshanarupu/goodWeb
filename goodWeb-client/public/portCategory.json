@@ -1,0 +1,39 @@
+[
+    {
+        "portfolio_img": "https://i.ibb.co/Rh9zr6N/portfolio-02.jpg",
+        "portfolio_name": "Seahorse by Trevor",
+        "portfolio_type": "Web Design",
+        "portfolio_category": "design"
+
+    },
+    {
+        "portfolio_img": "https://i.ibb.co/SJSvpfP/portfolio-06.jpg",
+        "portfolio_name": "Seahorse by Trevor",
+        "portfolio_type": "Graphic Design",
+        "portfolio_category": "design"
+    },
+    {
+        "portfolio_img": "https://i.ibb.co/zFbV9Yj/portfolio-03.jpg",
+        "portfolio_name": "Photography Material",
+        "portfolio_type": "Photography",
+        "portfolio_category": "mockup"
+    },
+    {
+        "portfolio_img": "https://i.ibb.co/XtC2mGh/portfolio-04.jpg",
+        "portfolio_name": "SnowMaker App",
+        "portfolio_type": "Application",
+        "portfolio_category": "mockup"
+    },
+    {
+        "portfolio_img": "https://i.ibb.co/ypdr6rD/portfolio-05.jpg",
+        "portfolio_name": "Admin Dashboard",
+        "portfolio_type": "Admin Template",
+        "portfolio_category": "logos"
+    },
+    {
+        "portfolio_img": "https://i.ibb.co/FD2HtBc/portfolio-01.jpg",
+        "portfolio_name": "Danny Jeffers",
+        "portfolio_type": "Web HTML design",
+        "portfolio_category": "html"
+    }
+]

@@ -1,0 +1,34 @@
+
+.my-font-family{
+    font-family: 'Raleway', sans-serif;
+}
+
+.text-hover:hover{
+    color: #ffc107 !important;
+}
+
+#error-page{
+  display: flex;
+  justify-content: center;
+}
+
+.btn-scroll-to-top {
+    display: none; /* Initially hide the button */
+    width: 45px;
+    height: 45px;
+    border: 2px solid #ffc107 !important;
+    border-radius: 21px 0px 21px 0px !important;
+    cursor: pointer;
+    bottom: 20px;
+    right: 100px;
+    z-index: 1000;
+    transition: background-color 0.3s, transform 0.3s;
+  }
+  .btn-scroll-to-top:hover {
+    background-color: #ffc107 !important;
+  }
+  .btn-scroll-to-top.show {
+    display: block;
+  }
+  
+

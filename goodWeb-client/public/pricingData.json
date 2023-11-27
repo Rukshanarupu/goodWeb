@@ -1,0 +1,41 @@
+[
+    {
+        "pricing_type": "Standard",
+        "pricing_per_month": 10.99,
+        "pricing_per_year": 110,
+        "pricing_features": [
+            "60GB Disk Space",
+            "60 Email Accounts",
+            "60GB Monthly Bandwidth",
+            "15 Subdomains",
+            "20 Domains"
+        ],
+        "pricing_description": "Lorem ipsum"
+    },
+    {
+        "pricing_type": "Premium",
+        "pricing_per_month": 15.99,
+        "pricing_per_year": 160,
+        "pricing_features": [
+            "120GB Disk Space",
+            "120 Email Accounts",
+            "120GB Monthly Bandwidth",
+            "30 Subdomains",
+            "40 Domains"
+        ],
+        "pricing_description": "Lorem ipsum"
+    },
+    {
+        "pricing_type": "Pro",
+        "pricing_per_month": 20.99,
+        "pricing_per_year": 210,
+        "pricing_features": [
+            "240GB Disk Space",
+            "240 Email Accounts",
+            "240GB Monthly Bandwidth",
+            "60 Subdomains",
+            "80 Domains"
+        ],
+        "pricing_description": "Lorem ipsum"
+    }
+]

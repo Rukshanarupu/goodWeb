@@ -1,0 +1,346 @@
+[
+  {
+    "id":12,
+    "service_title": "Mobile App Development",
+    "service_text":"Using native development frameworks including Swift for iOS, React Native, Flutter and more, we build custom mobile apps for a variety of purposes and industries.",
+    "services_offered":[
+      {
+        "service_offered_title":"Consulting",
+        "service_offered_des":[
+          "It services",
+          "Staff arguments",
+          "Penetration testing",
+          "Systems Integration"
+        ]
+      },
+      {
+        "service_offered_title":"Cloud",
+        "service_offered_des":[
+          "It services",
+          "Staff arguments",
+          "Penetration testing",
+          "Systems Integration"
+        ]
+      },
+      {
+        "service_offered_title":"It Support",
+        "service_offered_des":[
+          "It services",
+          "Staff arguments",
+          "Penetration testing",
+          "Systems Integration"
+        ]
+      },
+      {
+        "service_offered_title":"Security",
+        "service_offered_des":[
+          "It services",
+          "Staff arguments",
+          "Penetration testing",
+          "Systems Integration"
+        ]
+      }
+    ]
+  },
+  {
+    "id":23,
+    "service_title": "Web App Development",
+    "service_text":"From simple landing pages to complex web applications, our developer team specializes in creating innovative and user-friendly web apps that are optimized for use on a wide range of devices.",
+    "services_offered":[
+      {
+        "service_offered_title":"Consulting",
+        "service_offered_des":[
+          "It services",
+          "Staff arguments",
+          "Penetration testing",
+          "Systems Integration"
+        ]
+      },
+      {
+        "service_offered_title":"Cloud",
+        "service_offered_des":[
+          "It services",
+          "Staff arguments",
+          "Penetration testing",
+          "Systems Integration"
+        ]
+      },
+      {
+        "service_offered_title":"It Support",
+        "service_offered_des":[
+          "It services",
+          "Staff arguments",
+          "Penetration testing",
+          "Systems Integration"
+        ]
+      },
+      {
+        "service_offered_title":"Security",
+        "service_offered_des":[
+          "It services",
+          "Staff arguments",
+          "Penetration testing",
+          "Systems Integration"
+        ]
+      }
+    ]
+  },
+  {
+    "id":34,
+    "service_title": "UI/UX Design",
+    "service_text":"We use a variety of tools and techniques to create wireframes, prototypes, and high-fidelity mockups to create intuitive and visually appealing designs that enhance the user experience and drive engagement.",
+    "services_offered":[
+      {
+        "service_offered_title":"Consulting",
+        "service_offered_des":[
+          "It services",
+          "Staff arguments",
+          "Penetration testing",
+          "Systems Integration"
+        ]
+      },
+      {
+        "service_offered_title":"Cloud",
+        "service_offered_des":[
+          "It services",
+          "Staff arguments",
+          "Penetration testing",
+          "Systems Integration"
+        ]
+      },
+      {
+        "service_offered_title":"It Support",
+        "service_offered_des":[
+          "It services",
+          "Staff arguments",
+          "Penetration testing",
+          "Systems Integration"
+        ]
+      },
+      {
+        "service_offered_title":"Security",
+        "service_offered_des":[
+          "It services",
+          "Staff arguments",
+          "Penetration testing",
+          "Systems Integration"
+        ]
+      }
+    ]
+  },
+  {
+    "id":45,
+    "service_title": "Digital Marketing",
+    "service_text": "Here a highly creative and proficient digital marketing team will provide you with the best solutions tailored to your specific enterprise needs. Now is the time to one-up your competitors.",
+    "services_offered":[
+      {
+        "service_offered_title":"Consulting",
+        "service_offered_des":[
+          "It services",
+          "Staff arguments",
+          "Penetration testing",
+          "Systems Integration"
+        ]
+      },
+      {
+        "service_offered_title":"Cloud",
+        "service_offered_des":[
+          "It services",
+          "Staff arguments",
+          "Penetration testing",
+          "Systems Integration"
+        ]
+      },
+      {
+        "service_offered_title":"It Support",
+        "service_offered_des":[
+          "It services",
+          "Staff arguments",
+          "Penetration testing",
+          "Systems Integration"
+        ]
+      },
+      {
+        "service_offered_title":"Security",
+        "service_offered_des":[
+          "It services",
+          "Staff arguments",
+          "Penetration testing",
+          "Systems Integration"
+        ]
+      }
+    ]
+  },
+  {
+    "id":55,
+    "service_title": "Web App Development",
+    "service_text":"From simple landing pages to complex web applications, our developer team specializes in creating innovative and user-friendly web apps that are optimized for use on a wide range of devices.",
+    "services_offered":[
+      {
+        "service_offered_title":"Consulting",
+        "service_offered_des":[
+          "It services",
+          "Staff arguments",
+          "Penetration testing",
+          "Systems Integration"
+        ]
+      },
+      {
+        "service_offered_title":"Cloud",
+        "service_offered_des":[
+          "It services",
+          "Staff arguments",
+          "Penetration testing",
+          "Systems Integration"
+        ]
+      },
+      {
+        "service_offered_title":"It Support",
+        "service_offered_des":[
+          "It services",
+          "Staff arguments",
+          "Penetration testing",
+          "Systems Integration"
+        ]
+      },
+      {
+        "service_offered_title":"Security",
+        "service_offered_des":[
+          "It services",
+          "Staff arguments",
+          "Penetration testing",
+          "Systems Integration"
+        ]
+      }
+    ]
+  },
+  {
+    "id":56,
+    "service_title": "Cloud Solutions",
+    "service_text":"We offer a variety of cloud services, including infrastructure as a service, platform as a service, and software as a service. Our expertise areas include AWS, Azure and GCP.",
+    "services_offered":[
+      {
+        "service_offered_title":"Consulting",
+        "service_offered_des":[
+          "It services",
+          "Staff arguments",
+          "Penetration testing",
+          "Systems Integration"
+        ]
+      },
+      {
+        "service_offered_title":"Cloud",
+        "service_offered_des":[
+          "It services",
+          "Staff arguments",
+          "Penetration testing",
+          "Systems Integration"
+        ]
+      },
+      {
+        "service_offered_title":"It Support",
+        "service_offered_des":[
+          "It services",
+          "Staff arguments",
+          "Penetration testing",
+          "Systems Integration"
+        ]
+      },
+      {
+        "service_offered_title":"Security",
+        "service_offered_des":[
+          "It services",
+          "Staff arguments",
+          "Penetration testing",
+          "Systems Integration"
+        ]
+      }
+    ]
+  },
+  {
+    "id":67,
+    "service_title": "E Commerce",
+    "service_text":"Our e-Commerce services offer hosting, inventory support, marketing and design tools and the latest and greatest plug-ins. We will customize a robust e-Commerce solution for your business that drives growth.",
+    "services_offered":[
+      {
+        "service_offered_title":"Consulting",
+        "service_offered_des":[
+          "It services",
+          "Staff arguments",
+          "Penetration testing",
+          "Systems Integration"
+        ]
+      },
+      {
+        "service_offered_title":"Cloud",
+        "service_offered_des":[
+          "It services",
+          "Staff arguments",
+          "Penetration testing",
+          "Systems Integration"
+        ]
+      },
+      {
+        "service_offered_title":"It Support",
+        "service_offered_des":[
+          "It services",
+          "Staff arguments",
+          "Penetration testing",
+          "Systems Integration"
+        ]
+      },
+      {
+        "service_offered_title":"Security",
+        "service_offered_des":[
+          "It services",
+          "Staff arguments",
+          "Penetration testing",
+          "Systems Integration"
+        ]
+      }
+    ]
+  },
+  {
+    "id":78,
+    "service_title": "Custom Software Development",
+    "service_text":"At Good Web Solution, we custom design softwares for our clients. From business applications, tools to streamline workflow, to data analytics tools, we have the expertise to deliver a high-quality solution.",
+    "services_offered":[
+      {
+        "service_offered_title":"Consulting",
+        "service_offered_des":[
+          "It services",
+          "Staff arguments",
+          "Penetration testing",
+          "Systems Integration"
+        ]
+      },
+      {
+        "service_offered_title":"Cloud",
+        "service_offered_des":[
+          "It services",
+          "Staff arguments",
+          "Penetration testing",
+          "Systems Integration"
+        ]
+      },
+      {
+        "service_offered_title":"It Support",
+        "service_offered_des":[
+          "It services",
+          "Staff arguments",
+          "Penetration testing",
+          "Systems Integration"
+        ]
+      },
+      {
+        "service_offered_title":"Security",
+        "service_offered_des":[
+          "It services",
+          "Staff arguments",
+          "Penetration testing",
+          "Systems Integration"
+        ]
+      }
+    ]
+  }
+]
